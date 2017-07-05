@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Azienda Agricola Vignacci - Main",
+    "name": "Azienda Agricola Vignacci Main",
     "currentPage": "main.html",
     "theme": {
       "name": "mobirise3",
@@ -29,15 +29,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/screenshot-128x67.png",
     "noImageResize": "",
     "google-analytics": "",
-    "publishFtpPath": "public_html",
-    "publishType": "ftp",
-    "ftpLocation": "ftp://vignacci@ftp.vignacci.it:21"
+    "publishFtpPath": "public_html"
   },
   "pages": {
     "main.html": {
       "settings": {
         "main": true,
-        "title": "Azienda Agricola Vignacci",
+        "title": "Main",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -76,7 +74,7 @@
           },
           "title": "Agriturismo Vignacci<br><span style=\"font-weight: normal;\">Azienda Agricola</span>",
           "text": "Seleziona la tua lingua -&nbsp;Select your language -&nbsp;Whälen Sie Ihre sprache",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"it/home.html\" data-toolbar=\"-mbrBtnMove\">Italiano</a>    "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"it/home.html\" data-toolbar=\"-mbrBtnMove\">Italiano</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"en/home..html\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"de/home.html\" data-toolbar=\"-mbrBtnMove\">Deutsch</a> "
         }
       ]
     }
